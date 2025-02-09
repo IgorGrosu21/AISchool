@@ -26,9 +26,14 @@ First AI driven digital platform to simplify learning in school
 - /diary/holidays
 - /diary/classes/
 - /subjects
-- /subjects?grade=12
-- /subjects/<subject_name>?grade=12
-- /subjects
+- /subjects?grade=0
+- /subjects/<subject_name>?grade=0
+- /subjects/<subject_name>/<grade>/<module>
+- /subjects/<subject_name>/<grade>/<module>/<topic>
+- /subjects/<subject_name>/<grade>/<module>/<topic>/<theory_id>
+- /subjects/<subject_name>/<grade>/<module>/<topic>/<practice_id>
+- /subjects/<subject_name>/<grade>/<module>/<topic>/test
+- /subjects/<subject_name>/<grade>/<module>/<topic>/test/<task_id>
 
 ## Backend
 ### Stack:
