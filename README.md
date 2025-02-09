@@ -14,6 +14,21 @@ First AI driven digital platform to simplify learning in school
 - Lists of modules for each subject (yaklass like)
 - Theory and Practice part in every module (yaklass like, in every theory built in prompt for chat gpt / deepseek, every task should be marked if its checked using chatgpt or just code)
 
+### URL Tree
+- /login
+- /signup
+- /
+- /account
+- /account/edit
+- /diary?start_date=01.01.2025
+- /diary/lesson/?date=01.01.2025&lesson_order=4
+- /diary/achivements
+- /diary/holidays
+- /diary/classes/
+- /subjects
+- /subjects?grade=12
+- /subjects/<subject_name>?grade=12
+- /subjects
 
 ## Backend
 ### Stack:
