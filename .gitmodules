@@ -4,3 +4,6 @@
 [submodule "django-api"]
 	path = django-api
 	url = https://github.com/IgorGrosu21/AISchool-django
+[submodule "next"]
+	path = next
+	url = https://github.com/IgorGrosu21/AISchool-next
